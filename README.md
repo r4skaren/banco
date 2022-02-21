@@ -29,9 +29,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para acessar os projetos e fazê-los é necessário que:
 
-* Baixe o zip ou faça o clone
-
-> Lembre-se aqui está projetos simples desde pseudocódigo a springboot.
+* Baixe o zip ou faça o clone;
+* Clique em Run as e veja a mágica acontecer!
 
 <br>
 
