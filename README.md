@@ -12,7 +12,7 @@
 <br>
 
 > Código feito em equipe, com uso de um UML (uma linguagem-padrão para a elaboração da estrutura de projetos de software).
-> > Este é um código que representa um banco com algumas movimentações simples.É possível escolher a conta ser utlizada e, entres as opções existem: Pupança, Corrente, Especial, Empresa, Estudantil. 
+> > Este é um código que representa um banco com algumas movimentações simples.É possível escolher a conta ser utlizada e, entres as opções existem: Pupança, Corrente, Especial, Empresa e Estudantil. 
 
 
 <br>
